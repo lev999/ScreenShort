@@ -1,0 +1,3 @@
+http://www.codejava.net/java-ee/servlet/upload-file-to-servlet-without-using-html-form
+
+http://www.codejava.net/java-se/graphics/how-to-capture-screenshot-programmatically-in-java
